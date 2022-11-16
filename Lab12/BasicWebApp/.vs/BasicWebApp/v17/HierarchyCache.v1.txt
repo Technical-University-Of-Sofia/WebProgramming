@@ -1,0 +1,365 @@
+﻿++Solution 'BasicWebApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BasicWebApp.sln
+++BasicWebApp
+i:{00000000-0000-0000-0000-000000000000}:BasicWebApp
+++Properties
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\properties\
+++References
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Account
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\
+++AddPhoneNumber.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\addphonenumber.aspx
+++AddPhoneNumber.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\addphonenumber.aspx.cs
+++AddPhoneNumber.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\addphonenumber.aspx.designer.cs
+++Confirm.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\confirm.aspx
+++Confirm.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\confirm.aspx.cs
+++Confirm.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\confirm.aspx.designer.cs
+++Forgot.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\forgot.aspx
+++Forgot.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\forgot.aspx.cs
+++Forgot.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\forgot.aspx.designer.cs
+++Lockout.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\lockout.aspx
+++Lockout.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\lockout.aspx.cs
+++Lockout.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\lockout.aspx.designer.cs
+++Login.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\login.aspx
+++Login.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\login.aspx.cs
+++Login.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\login.aspx.designer.cs
+++Manage.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\manage.aspx
+++Manage.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\manage.aspx.cs
+++Manage.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\manage.aspx.designer.cs
+++ManageLogins.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\managelogins.aspx
+++ManageLogins.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\managelogins.aspx.cs
+++ManageLogins.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\managelogins.aspx.designer.cs
+++ManagePassword.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\managepassword.aspx
+++ManagePassword.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\managepassword.aspx.cs
+++ManagePassword.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\managepassword.aspx.designer.cs
+++OpenAuthProviders.ascx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\openauthproviders.ascx
+++OpenAuthProviders.ascx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\openauthproviders.ascx.cs
+++OpenAuthProviders.ascx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\openauthproviders.ascx.designer.cs
+++Register.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\register.aspx
+++Register.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\register.aspx.cs
+++Register.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\register.aspx.designer.cs
+++RegisterExternalLogin.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\registerexternallogin.aspx
+++RegisterExternalLogin.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\registerexternallogin.aspx.cs
+++RegisterExternalLogin.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\registerexternallogin.aspx.designer.cs
+++ResetPassword.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\resetpassword.aspx
+++ResetPassword.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\resetpassword.aspx.cs
+++ResetPassword.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\resetpassword.aspx.designer.cs
+++ResetPasswordConfirmation.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\resetpasswordconfirmation.aspx
+++ResetPasswordConfirmation.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\resetpasswordconfirmation.aspx.cs
+++ResetPasswordConfirmation.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\resetpasswordconfirmation.aspx.designer.cs
+++TwoFactorAuthenticationSignIn.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\twofactorauthenticationsignin.aspx
+++TwoFactorAuthenticationSignIn.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\twofactorauthenticationsignin.aspx.cs
+++TwoFactorAuthenticationSignIn.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\twofactorauthenticationsignin.aspx.designer.cs
+++VerifyPhoneNumber.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\verifyphonenumber.aspx
+++VerifyPhoneNumber.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\verifyphonenumber.aspx.cs
+++VerifyPhoneNumber.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\verifyphonenumber.aspx.designer.cs
+++Web.config
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\account\web.config
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\web.config
+++App_Data
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\app_data\
+++App_Start
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\app_start\
+++BundleConfig.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\app_start\bundleconfig.cs
+++IdentityConfig.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\app_start\identityconfig.cs
+++RouteConfig.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\app_start\startup.auth.cs
+++Content
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\
+++bootstrap-theme.css
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap.css
+++bootstrap.css.map
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap.css.map
+++bootstrap.min.css
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\bootstrap.min.css.map
+++Site.css
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\content\site.css
+++fonts
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\fonts\
+++Models
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\models\
+++IdentityModels.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\models\identitymodels.cs
+++Scripts
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\
+++WebForms
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\
+++bootstrap.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\bootstrap.js
+++bootstrap.min.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\modernizr-2.8.3.js
+++About.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\about.aspx
+++Bundle.config
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\bundle.config
+++Contact.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\contact.aspx
+++Default.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\default.aspx
+++favicon.ico
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\favicon.ico
+++Global.asax
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\global.asax
+++packages.config
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\packages.config
+++Site.Master
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\site.master
+++Site.Mobile.Master
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\site.mobile.master
+++Site.Mobile.Master.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\site.mobile.master.cs
+++Site.Mobile.Master.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\site.mobile.master.designer.cs
+++Startup.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\startup.cs
+++ViewSwitcher.ascx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\viewswitcher.ascx
+++ViewSwitcher.ascx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\viewswitcher.ascx.designer.cs
+++AssemblyInfo.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++AspNet.ScriptManager.bootstrap
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++AspNet.ScriptManager.jQuery
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++EntityFramework
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++EntityFramework.SqlServer
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.AspNet.FriendlyUrls
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.AspNet.Identity.Core
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.AspNet.Identity.Owin
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.CSharp
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Host.SystemWeb
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Security
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Security.Cookies
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Security.Google
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Security.OAuth
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Owin.Security.Twitter
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.ScriptManager.MSAjax
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.ScriptManager.WebForms
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Microsoft.Web.Infrastructure
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Newtonsoft.Json
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++Owin
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.ComponentModel.DataAnnotations
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Configuration
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Core
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Data
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Data.DataSetExtensions
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Drawing
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.EnterpriseServices
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web.ApplicationServices
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web.DynamicData
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web.Entity
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web.Extensions
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web.Optimization
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Web.Services
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Xml
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++System.Xml.Linq
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++WebGrease
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:
+++glyphicons-halflings-regular.eot
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\fonts\glyphicons-halflings-regular.woff2
+++MSAjax
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\
+++DetailsView.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\detailsview.js
+++Focus.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\focus.js
+++GridView.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\gridview.js
+++Menu.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\menu.js
+++MenuStandards.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\smartnav.js
+++TreeView.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\treeview.js
+++WebForms.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\webforms.js
+++WebParts.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\webuivalidation.js
+++About.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\about.aspx.cs
+++About.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\about.aspx.designer.cs
+++Contact.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\contact.aspx.designer.cs
+++Default.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\default.aspx.cs
+++Default.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\default.aspx.designer.cs
+++Global.asax.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\global.asax.cs
+++Site.Master.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\site.master.cs
+++Site.Master.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\site.master.designer.cs
+++Web.Debug.config
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\web.debug.config
+++Web.Release.config
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\web.release.config
+++MicrosoftAjax.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\scripts\webforms\msajax\microsoftajaxwebservices.js
+++FirstWebPage.aspx
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\firstwebpage.aspx
+++FirstWebPage.aspx.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\firstwebpage.aspx.cs
+++FirstWebPage.aspx.designer.cs
+i:{a8a19662-abd7-4ae6-b9dc-18946ba2de73}:d:\education\web programming\lab12\basicwebapp\basicwebapp\firstwebpage.aspx.designer.cs

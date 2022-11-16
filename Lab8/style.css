@@ -1,0 +1,71 @@
+body {
+    background-color: palegoldenrod;
+}
+
+h1 {
+    background-color: gold;
+    color: blueviolet;
+    font-size: 30px;
+    text-align: center;
+    height: 60px;
+}
+
+.row {
+    display: flex;
+}
+
+.menuColumn {
+    float: left;
+    margin: 0;
+    width: 200px;
+}
+
+.column {
+    float: left;
+    margin: 0;
+    background-image: url("UPA.jpg");
+    background-repeat: repeat-x;
+    background-size: 5% 100%;
+}
+
+menu {
+    list-style: none;
+    padding: 0;
+    width: 400px;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1;
+    height: 40px;
+    width: 150px;
+    background: linear-gradient(90deg, oldlace 90%, black 10%);
+    color: navy;
+    margin: 3mm;
+    padding-left: 5px;
+}
+
+li > a {
+    text-decoration: none;
+    color: navy;
+}
+
+.content {
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    word-break: break-all;
+    white-space: normal;
+}
+
+footer {
+    color: blueviolet;
+    font-style: italic;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;    
+    text-align: center;
+}

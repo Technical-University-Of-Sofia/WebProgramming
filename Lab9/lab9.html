@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Java Script</title>
+        <meta name="description" content="A HTML5 page from the start!">
+        <meta name="author" content="Udemy">      
+    </head>
+    <body>
+        <button type="button" onclick="ShowText()">Open an alert window with some text</button> <br/><br/>
+        <button type="button" onclick="GetSum()">Ask the user for 2 numbers and show their sum</button> <br/><br/>
+        <button type="button" onclick="ShowCurrentTime()">Show the current time</button> <br/><br/>
+
+        <p id="outputField"></p>
+
+        <script>
+            function ShowText() {
+                alert("Hello! I am Rick Astley box!!");
+            }
+
+            function GetSum() {
+                let isNumber = false;
+                let firtsNumber = "0";
+                let secondNumber = "0";
+
+                do {
+                    firtsNumber = prompt("Enter your login");
+
+                    if (!isNaN(firtsNumber)) {
+                        isNumber = true;
+                    } else {                     
+                        alert("Invalid login! Try again.");
+                    }
+
+                } while (!isNumber);
+                
+                isNumber = false;
+                do {
+                    secondNumber = prompt("Enter the password");
+
+                    if (!isNaN(secondNumber)) {
+                        isNumber = true;
+                    } else {                     
+                        alert("Invalid password! Try again.");
+                    }
+
+                }while(!isNumber);
+                
+                document.getElementById("outputField").innerHTML = 
+                firtsNumber +  " + " + secondNumber + " = " + (Number(firtsNumber) + Number(secondNumber));
+            }
+
+            function ShowCurrentTime() {
+                document.getElementById("outputField").innerHTML = new Date().toLocaleTimeString('en-US', { 
+                    hour12: false,
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    second: "2-digit"});
+            }
+        </script>
+    </body>
+</html>

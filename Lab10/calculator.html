@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Java Script</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+</head>
+
+<body>
+    <input type="text" id="firstNumber" autofocus> ? <input type="text" id="secondNumber"><br /><br />
+    <button type="button" onclick="Sum()">+</button>
+    <button type="button" onclick="Subtract()">-</button>
+    <button type="button" onclick="Multiply()">*</button>
+    <button type="button" onclick="Divide()">/</button> <br />
+    <div>
+        <p>
+            Result is <label id="outputField"></label>
+        </p>
+    </div><br /><br /><br />
+
+    <div id="runOffButton">Run off button</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            alert("Never gonna give you up. Never gonna let you down.");
+
+            $('button').mouseenter(function () {
+                $(this).css({ border: '0 solid red' }).animate({
+                    'borderWidth': '1px'
+                }, "slow");
+            }).mouseleave(function () {
+                $(this).animate({
+                    'borderWidth': '0px'
+                }, 0);
+            });
+
+            $('div').mouseenter(function () {
+                $('p').css({ color: "yellow" });
+            }).mouseleave(function () {
+                $('p').css({ color: "#000" });
+            });
+
+            $('input').focusin(function () {
+                $(this).animate({
+                    'height': '30px'
+                });
+            }).focusout(function () {
+                $(this).animate({
+                    'height': '25px'
+                });
+            })
+
+            $('button').click(function () {
+                if (!$('#firstNumber').val()) {
+                    $('#firstNumber').css({ border: '0 solid orange' }).animate({
+                        'borderWidth': '3px',
+                    });
+
+                    $('#firstNumber').focus();
+
+                    return;
+                } else {
+                    $('#firstNumber').css({ border: '0 solid #000' }).animate({
+                        'borderWidth': '1px'
+                    });
+                }
+
+                if (!$('#secondNumber').val()) {
+                    $('#secondNumber').css({ border: '0 solid orange' }).animate({
+                        'borderWidth': '3px',
+                    });
+
+                    $('#secondNumber').focus();
+
+                    return;
+                } else {
+                    $('#secondNumber').css({ border: '0 solid #000' }).animate({
+                        'borderWidth': '1px'
+                    });
+                }
+            });
+
+            $('#runOffButton').hover(function(){
+                $(this).animate({marginLeft: 38, marginRight: 0}); 
+            }, function(){ 
+                $(this).animate({marginLeft: 18, marginRight: 18}); 
+            });
+        });
+
+        document.getElementById("firstNumber").addEventListener("keypress", function (evt) {
+            if (evt.which < 48 || evt.which > 57) {
+                evt.preventDefault();
+            }
+        });
+        document.getElementById("secondNumber").addEventListener("keypress", function (evt) {
+            if (evt.which < 48 || evt.which > 57) {
+                evt.preventDefault();
+            }
+        });
+
+        function StringIsNotEmpty(str) {
+            if (!str) {
+                alert("Not all requierd data were inputed!");
+
+                return false;
+            }
+
+            return true;
+        }
+
+        function Sum() {
+            var _firstNumber = document.getElementById("firstNumber").value;
+            var _secondNumber = document.getElementById("secondNumber").value;
+
+            if (StringIsNotEmpty(_firstNumber) && StringIsNotEmpty(_secondNumber)) {
+                document.getElementById("outputField").innerHTML = Number(_firstNumber) + Number(_secondNumber);
+            }
+        }
+
+        function Subtract() {
+            var _firstNumber = document.getElementById("firstNumber").value;
+            var _secondNumber = document.getElementById("secondNumber").value;
+
+            if (StringIsNotEmpty(_firstNumber) && StringIsNotEmpty(_secondNumber)) {
+                document.getElementById("outputField").innerHTML = Number(_firstNumber) - Number(_secondNumber);
+            }
+        }
+
+        function Multiply() {
+            var _firstNumber = document.getElementById("firstNumber").value;
+            var _secondNumber = document.getElementById("secondNumber").value;
+
+            if (StringIsNotEmpty(_firstNumber) && StringIsNotEmpty(_secondNumber)) {
+                document.getElementById("outputField").innerHTML = Number(_firstNumber) * Number(_secondNumber);
+            }
+        }
+
+        function Divide() {
+            var _firstNumber = document.getElementById("firstNumber").value;
+            var _secondNumber = document.getElementById("secondNumber").value;
+
+            if (StringIsNotEmpty(_firstNumber) && StringIsNotEmpty(_secondNumber)) {
+                document.getElementById("outputField").innerHTML = Number(_firstNumber) / Number(_secondNumber);
+            }
+        }
+    </script>
+</body>
+
+</html>

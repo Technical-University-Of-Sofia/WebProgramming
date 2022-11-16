@@ -1,0 +1,35 @@
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+    transition: width 2s;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
+#left_column {
+    background-color: #ffcccc;
+    transition: background-color 2s;
+  }
+
+#left_column:hover {
+    background-color: #ffcccc;
+  }
+
+#right_column {
+    background-color: darkolivegreen;
+  }
+
+#right_column:hover {
+    transform: scaleY(1.5);
+  }

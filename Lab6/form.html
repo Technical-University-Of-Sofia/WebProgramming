@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Simple form</title>
+        <meta name="description" content="A HTML5 page from the start!">
+        <meta name="author" content="Udemy">      
+    </head>
+    <body>
+        <form id="customerInfo" autocomplete="on">
+            <fieldset>
+                <legend>Customer info</legend>
+                <label for="inputName">Name:</label>
+                <input type="text" id="inputName" name="inputName" autofocus placeholder="Enter your name" required><br><br>
+                <label for="inputPhone">Telephone:</label>
+                <input type="tel" id="inputPhone" name="inputPhone" placeholder="1-234-567-8910" pattern="[0-9]{1}-[0-9]{3}-[0-9]{3}-[0-9]{4}" required><br><br>
+                <label for="inputEmail">Email address:</label>
+                <input type="email" multiple id="inputEmail" name="inputEmail" placeholder="Enter your e-mail address" required><br><br>
+            </fieldset>            
+        </form>
+        <br/>
+        <form id="books">
+            <fieldset>
+                <legend>Books</legend>
+                <input list="booksList" id="bookChoice" name="bookChoice">
+                <datalist id="booksList">
+                    <option value="GAME OF THRONES BY GEORGE R.R. MARTIN">
+                    <option value="THE NAME OF THE WIND BY PATRICK ROTHFUSS">
+                    <option value="THE WAY OF KINGS BY BRANDON SANDERSON">
+                    <option value="A WIZARD OF EARTHSEA BY URSULA LEGUIN">
+                    <option value="ASSASSIN’S APPRENTICE BY ROBIN HOBB">
+                    <option value="THE COLOUR OF MAGIC BY TERRY PRATCHETT (THE DISCWORLD SERIES)">
+                    <option value="THE LORD OF THE RINGS BY JRR TOLKIEN">
+                    <option value="HARRY POTTER AND THE PHILOSOPHER'S STONE BY JK ROWLING (HARRY POTTER)">
+                    <option value="THE FINAL EMPIRE BY BRANDON SANDERSON (MISTBORN)">
+                    <option value="ALICE'S ADVENTURES IN WONDERLAND BY LEWIS CARROLL">
+                </datalist>
+                <label for="inputQty">Quantity (Maximum 5):</label>
+                <input type="number" id="inputQty" name="inputQty" min="1" max="5"><br>
+            </fieldset>            
+        </form>
+        <br/>
+        <input type = "submit" name = "submit" value = "Submit" />
+
+        <footer>
+            <p>&copy; 2011 Acme United. All rights reserved.</p>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+@import
+url(http://fonts.googleapis.com/css?family=Fira+Sans:400,500italic);
+html {
+ height: 100%;
+ background-color: #222024;
+ background: -webkit-radial-gradient(center, circle, #47414c 0%,
+#222024 100%);
+ background: radial-gradient(circle at center, #47414c 0%, #222024
+100%);
+ background-repeat: no-repeat;
+}
+body {
+ text-align: center;
+ font: normal 100% 'Fira Sans', sans-serif;
+}
+h2 {
+ font-size: 4vw;
+}
+h2 span {
+ font-size: 60%;
+}
+a {
+ color: #aaa;
+}
+.globe {
+ margin: 1em 0 0 0;
+ position: relative;
+ display: inline-block;
+ text-align: left;
+ width: 400px;
+ height: 400px;
+ border-radius: 50%;
+ border: 20px solid #f7dbcf;
+ box-sizing: border-box;
+ background: -webkit-linear-gradient(top, #86aecc 0%, #d4e4ef
+100%);
+ background: linear-gradient(to bottom, #86aecc 0%, #d4e4ef 100%);
+ overflow: hidden;
+ box-shadow: inset 0 0 80px rgba(0, 0, 0, 0.5), 0 0 20px rgba(0, 0,
+0, 0.3);
+}
+.globe:before, .globe:after {
+ position: absolute;
+ content: "";
+ box-sizing: border-box;
+ border-radius: 50%;
+ z-index: 10;
+}
+.globe:before {
+ height: 94%;
+ width: 94%;
+ top: 3%;
+ right: 3%;
+ border: 10px solid transparent;
+ border-right-color: rgba(255, 255, 255, 0.3);
+ border-right-width: 10px;
+ border-right-style: solid;
+}
+.globe:after {
+ top: 50px;
+ right: 65px;
+ width: 10px;
+ height: 10px;
+ background: rgba(255, 255, 255, 0.3);
+}

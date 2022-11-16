@@ -1,0 +1,29 @@
+input{
+    height: 25px;
+}
+
+button{
+    background: pink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+p{
+    font-stretch: expanded;
+}
+
+#runOffButton{
+    background:#98bf21;
+    height:100px;
+    width:100px;
+    position:absolute;
+    margin: 10px;
+    display:flex;
+    align-items:center;
+    color: white;
+}
