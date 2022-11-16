@@ -1,0 +1,10 @@
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\bin\DatabaseConnection.dll.config
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\bin\DatabaseConnection.dll
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\bin\DatabaseConnection.pdb
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CopyComplete
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\obj\Debug\DatabaseConnection.dll
+C:\Users\Vladyslav\Downloads\WebProgramming\Lab13\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
